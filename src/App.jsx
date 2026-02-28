@@ -1,7 +1,7 @@
 export default function App() {
   return (
     <>
-      <div className="container">CIaooo</div>
+      <div className="container">CIaoo</div>
     </>
   );
 }
